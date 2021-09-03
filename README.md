@@ -1,7 +1,5 @@
 ## Olá, eu sou a Carolina
 
-#### 👩‍💻 Desenvolvedora Fullstack Java Jr
-#### 👩‍🎓 Generation Brasil
 #### ✔ #opentowork
 
  <div>
